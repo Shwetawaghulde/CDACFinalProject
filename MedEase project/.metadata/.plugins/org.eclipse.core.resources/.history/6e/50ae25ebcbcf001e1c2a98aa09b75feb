@@ -1,0 +1,5 @@
+package com.medeasemanagement.service;
+
+public class EmailSenderService {
+
+}
